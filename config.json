@@ -8,7 +8,7 @@
     },
         {"username": "xxxxxxxxxxx",
         "password": "xxxxxxxxx",
-        "time": ["8:30","22:00"],
+        "time": ["10:30","22:00"],
         "roomid":"5483",
         "seatid":["039"]
     }
