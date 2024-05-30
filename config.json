@@ -5,12 +5,6 @@
         "time": ["8:30","22:00"],
         "roomid":"5483",
         "seatid":["036"]
-    },
-        {"username": "xxxxxxxxxxx",
-        "password": "xxxxxxxxx",
-        "time": ["10:30","22:00"],
-        "roomid":"5483",
-        "seatid":["037"]
     }
     ]
 }
